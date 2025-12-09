@@ -1,9 +1,22 @@
 # Akello-x
 IMPROVEMENT ON EXISTING AKELLO SERVICE AND HACKATHON CHALLENGE
 
-## Rule-Based Student Performance Analysis System
+## Complete Two-AI System for Adaptive Learning & Career Guidance
 
-This repository contains a **rule-based supervised system** that analyzes student answers and performance to intelligently decide what to show next: **questions**, **lessons**, or **feedback**.
+This repository implements a **complete prototype two-AI architecture** for student support:
+
+1. **StudyBuddy AI** - Analyzes performance, provides learning recommendations
+2. **Career Mapping AI** - Recommends career paths based on strengths and interests
+
+Both systems support **Free** and **Premium** tiers with differentiated features.
+
+📖 **[Complete Two-AI Documentation](README_TWO_AI.md)**
+
+---
+
+## Original Rule-Based System
+
+Also includes the foundation **rule-based supervised system** that analyzes student answers and performance to intelligently decide what to show next: **questions**, **lessons**, or **feedback**.
 
 ### Key Features
 
@@ -16,6 +29,16 @@ This repository contains a **rule-based supervised system** that analyzes studen
 
 ### Quick Start
 
+**Two-AI System:**
+```bash
+# Run the complete two-AI demonstration
+python akello_ai_system.py
+
+# Run tests for two-AI system
+python -m unittest test_two_ai_system.py -v
+```
+
+**Original Rule-Based System:**
 ```bash
 # Run the demo
 python system.py
