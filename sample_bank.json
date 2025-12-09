@@ -1,0 +1,6 @@
+[
+  {"id": "q1", "topic": "algebra/linear-equations", "subtopic": "solving", "difficulty": "easy", "type": "mcq"},
+  {"id": "q2", "topic": "algebra/linear-equations", "subtopic": "solving", "difficulty": "medium", "type": "short_answer"},
+  {"id": "q3", "topic": "algebra/linear-equations", "subtopic": "systems", "difficulty": "hard", "type": "problem"},
+  {"id": "q4", "topic": "algebra/inequalities", "subtopic": "single-variable", "difficulty": "easy", "type": "mcq"}
+]
